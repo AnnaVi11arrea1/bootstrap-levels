@@ -1,0 +1,189 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  margin: 40px;
+}
+
+/* ==================
+PRIMARY
+================*/
+
+.btn-primary {
+  background-color: #0037ff;
+  color: white;
+  border-radius: 10px;
+  padding: 15px 20px;
+  border: 1px solid #0037ff;
+  }
+
+.btn-primary:hover {
+    background-color: #0300b5;
+    border: 1px solid #0300b5;
+  }
+
+/* ==================
+SECONDARY
+================*/
+
+.btn-secondary {
+  background-color: #707070;
+  color: white;
+  border-radius: 10px;
+  padding: 15px 20px;
+  border: 1px solid #707070;
+  }
+
+.btn-secondary:hover {
+  background-color: #444444;
+  border: 1px solid #444444;
+}
+
+/* ==================
+SUCCESS
+================*/
+
+.btn-success {
+  background-color: #00893e;
+  color: white;
+  border-radius: 10px;
+  padding: 15px 20px;
+  border: 1px solid #00893e;
+  }
+
+.btn-success:hover {
+  background-color: #005709;
+  border: 1px solid #005709;
+  }
+
+/* ==================
+DANGER
+================*/
+
+.btn-danger {
+  background-color: #ed0d1f;
+  color: white;
+  border-radius: 10px;
+  padding: 15px 20px;
+  border: 1px solid #ed0d1f;
+  }
+
+.btn-danger:hover {
+  background-color: #96000a;
+  border: 1px solid #96000a;
+  }
+    
+/* ==================
+WARNING
+================*/
+
+.btn-warning {
+  background-color: #ecc500;
+  color: black;
+  border-radius: 10px;
+  padding: 15px 20px;
+  border: 1px solid #ecc500;
+  }
+
+.btn-warning:hover {
+  background-color: #bca600;
+  border: 1px solid #bca600;
+  }
+
+/* ==================
+INFO
+================*/
+
+.btn-info {
+  background-color: #00bdec;
+  color: black;
+  border-radius: 10px;
+  padding: 15px 20px;
+  border: 1px solid #00bdec;
+  }
+
+.btn-info:hover {
+  background-color: #008190;
+  border: 1px solid #008190;
+  }
+
+
+.unobtrusive-pri {
+  background-color:white;
+  color:#0037ff;
+  border: 1px solid #0037ff;
+}
+
+.unobtrusive-pri:hover {
+  border: none;
+  color:white;
+  background-color: #0037ff;
+}
+
+.unobtrusive-sec {
+  background-color:white;
+  color: #707070;
+  border: 1px solid #707070;
+}
+
+.unobtrusive-sec:hover {
+  border: none;
+  color:white;
+  background-color: #707070 ;
+}
+
+.unobtrusive-suc {
+  background-color:white;
+  color: #00893e;
+  border: 1px solid #00893e;
+}
+
+.unobtrusive-suc:hover {
+  border: none;
+  color:white;
+  background-color: #00893e;
+}
+
+.unobtrusive-dan {
+  background-color:white;
+  color: #ed0d1f;
+  border: 1px solid #ed0d1f;
+}
+
+.unobtrusive-dan:hover {
+  border: none;
+  color:white;
+  background-color: #ed0d1f;
+}
+
+.unobtrusive-war {
+  background-color:white;
+  color: #ecc500;
+  border: 1px solid #ecc500;
+}
+
+.unobtrusive-war:hover {
+  border: none;
+  color: black;
+  background-color: #ecc500;
+}
+
+.unobtrusive-info {
+  background-color:white;
+  color: #00bdec;
+  border: 1px solid #00bdec;
+}
+
+.unobtrusive-info:hover {
+  border: none;
+  color: black;
+  background-color: #00bdec;
+}
+
+.top-btns {
+  display: flex;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding: 10px 0px;
+}
