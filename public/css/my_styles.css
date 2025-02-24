@@ -1,0 +1,82 @@
+.base-button {
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  text-decoration: none;
+
+}
+
+.base-button-blue {
+  background-color: blue;
+  box-shadow: inset 2px -1px 66px 39px rgba(0, 0, 0, 0.3);
+}
+
+.base-button-grey {
+  background-color:rgb(85, 85, 85);
+  box-shadow: inset 2px -1px 66px 39px rgba(0, 0, 0, 0.3);
+}
+
+.base-button-green {
+  background-color:green;
+  box-shadow: inset 2px -1px 66px 39px rgba(0, 0, 0, 0.3);
+}
+
+.base-button-red {
+  background-color: red;
+  box-shadow: inset 2px -1px 66px 39px rgba(0, 0, 0, 0.3);
+}
+
+.base-button-orange {
+  background-color: orange;
+  box-shadow: inset 2px -1px 66px 39px rgba(0, 0, 0, 0.3);
+}
+
+.base-button-cyan {
+  background-color:rgb(0, 201, 151);
+  box-shadow: inset 2px -1px 66px 39px rgba(0, 0, 0, 0.3);
+}
+
+.base-button-outline {
+  border: 2px solid;
+  background-color: white;
+  padding-top:3px;
+  padding-bottom:3px;
+  padding-left: 8px;
+  padding-right: 8px;
+  border-radius: 8px;
+  transition: 0.3s ease;
+}
+
+
+.base-button-outline-blue {
+  color: blue;
+  border-color: blue;
+}
+
+.base-button-outline-grey {
+  color: rgb(85, 85, 85);
+  border-color: rgb(85, 85, 85);
+}
+
+.base-button-outline-green {
+  color: green;
+  border-color: green;
+}
+
+.base-button-outline-red {
+  color: red;
+  border-color: red;
+}
+
+.base-button-outline-orange {
+  color: orange;
+  border-color: orange;
+}
+
+.base-button-outline-cyan {
+  color:rgb(0, 201, 151);
+  border-color: rgb(0, 201, 151);
+}
